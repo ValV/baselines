@@ -38,7 +38,7 @@ setup(name='baselines',
           'joblib',
           'cloudpickle',
           'click',
-          'opencv-python-headless==3.4.8'
+          'opencv-python-headless==3.4.8.29'
       ],
       extras_require=extras,
       description='OpenAI baselines: high quality implementations of reinforcement learning algorithms',
